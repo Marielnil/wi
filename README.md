@@ -5,8 +5,5 @@
 
 ###Study Jam de Git 
 
-class Miclase{
-	 fun miGuncion(){
-	 print("hola mundo ")
-	}
-}
+
+
